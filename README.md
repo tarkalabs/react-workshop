@@ -26,8 +26,15 @@ This repository contains the code and the outline for TarkaLabs' React Workshop.
 * Testing Redux reducers and actions
 * Building and Deploying a React application
 
+* Profiling and analyzing a React application
+* Reducing jankiness
+
+## How does React compare to jQuery?
+
+* A declarative approach to writing single page applications
+* A library to batch updates to DOM
+* One-way data binding to DOM
+
 ## Pre-requisites
 
 Participants of this workshop are expected to have a good understanding of ES6 and language extras beyond ES6. Participants are also expected to have a basic understanding of webpack and how it can be configured to build and package frontend assets.
-
-
